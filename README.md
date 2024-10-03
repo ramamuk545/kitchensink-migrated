@@ -36,9 +36,9 @@ This can be done using:
 ```
 ## How I migrated
 ```sh
-# JAX-RS "kitchensink"
-1. Reviewed maven dependencies of JAX-RS "kitchensink" application, to understand frameworks and libraries used.
-2. Reviewed README of JAX-RS "kitchensink" application, packaged it and deployed to JBoss EAP 8.0
+# Legacy "kitchensink"
+1. Reviewed maven dependencies of legacy "kitchensink" application, to understand frameworks and libraries used.
+2. Reviewed README of legacy "kitchensink" application, packaged it and deployed to JBoss EAP 8.0
 3. Reviewed code: Service, Controller, API endpoints, Repository, JSF view and H2 tables
 
 # Spring Boot "kitchensink"
